@@ -1,0 +1,12 @@
+src/
+tests/
+examples/
+.github/
+.vscode/
+.idea/
+*.log
+*.config.js
+*.config.ts
+tsconfig.json
+.eslintrc
+.prettierrc
